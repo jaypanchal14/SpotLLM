@@ -1,5 +1,11 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+# Added unnecessary files
+api.py
+data.py
+distil_bert_classifier.h5
+
 *.py[cod]
 *$py.class
 
