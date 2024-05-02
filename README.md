@@ -9,7 +9,11 @@ I have tried two approach, one is based on the dataset which contains around 4.4
     -> MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
 
 Model notebooks : 
-
 https://www.kaggle.com/code/jaypanchal14/spot6
-
 https://colab.research.google.com/drive/1Dk2cUt08qFoJLLlldCz118OLceFn5UjF?usp=sharing
+https://www.kaggle.com/code/jaypanchal14/spotllm
+
+Darshit's Notebook :
+https://www.kaggle.com/code/darshit2582/fine-tuning-using-bert
+https://www.kaggle.com/code/darshit2582/logistic-regression
+https://www.kaggle.com/code/darshit2582/neural-network
